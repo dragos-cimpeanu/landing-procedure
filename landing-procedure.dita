@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_psf_d1t_lwb">
+    <title>Landing Procedure</title>
+    <body>
+        <p>A landing process refers to the steps and procedures that are followed by an aircraft and
+            its crew to safely bring the aircraft down from flight to the runway. It is a crucial
+            part of the flight and involves multiple stages, including descent, approach, flare, and
+            touch down.</p>
+        <section id="section_u2c_q1t_lwb">
+            <title>Regular Landing Procedure</title>
+            <p>The normal landing procedure for a Boeing 747 typically involves several stages:</p>
+            <ol id="ol_iy4_r1t_lwb">
+                <li>Descent: The pilot will initiate the descent to the landing runway by reducing
+                    altitude and airspeed. This may be done by reducing engine thrust and deploying
+                    the landing gear.</li>
+                <li>Approach: During the approach, the pilot will line up the aircraft with the
+                    runway and adjust the airspeed and altitude to match the recommended approach
+                    profile. The pilot will also configure the aircraft by extending the flaps and
+                    slats, which increase the lift and drag of the wings to allow for a slower
+                    approach speed.</li>
+                <li>Flare: As the aircraft nears the runway, the pilot will "flare" the aircraft by
+                    pulling back on the control column to reduce the rate of descent and touch down
+                    more gently.</li>
+                <li>Touchdown: The wheels of the aircraft will touch down on the runway, and the
+                    pilot will use the brakes to bring the aircraft to a complete stop on the
+                    runway.</li>
+            </ol>
+        </section>
+        <section id="section_ukc_v1t_lwb">
+            <title>Post Landing Procedure</title>
+            <p>Once the aircraft has landed, the pilot will typically perform several post-landing
+                procedures, including:</p>
+            <ol id="ol_e2p_w1t_lwb">
+                <li>Taxiing: The pilot will taxi the aircraft to the designated parking area on the
+                    airport's ramp using the aircraft's nose wheel steering and brakes.</li>
+                <li>Shutdown: The pilot will shut down the engines and perform other checks such as
+                    setting the parking brakes and shutting off electrical systems.</li>
+                <li>Secure the aircraft: The pilot will ensure that all doors are secure, the flight
+                    deck is secured, and all passengers have safely disembarked the aircraft.</li>
+                <li>File a flight plan: The pilot will file a flight plan that summarizes the
+                    flight's details, including the route, flight time, and fuel consumption.</li>
+                <li>Debriefing: The pilot may have a debriefing with the rest of the flight crew to
+                    discuss any issues or incidents that occurred during the flight.</li>
+                <li>Maintenance check: The aircraft may require maintenance checks or inspections
+                    before it is cleared for its next flight.</li>
+            </ol>
+        </section>
+        <section id="section_ggw_h1t_lwb">
+            <title>Engine Failure Procedure</title>
+            <p>In the event of an engine failure on an airplane, the procedure for a safe landing
+                will involve the following steps:</p>
+            <ol id="ol_n5t_d1t_lwb">
+                <li>Maintaining control: The pilot will adjust the aircraft's speed, altitude, and
+                    attitude to counteract any yaw or roll that may result from the engine
+                    failure.</li>
+                <li>Glide path: The pilot will try to establish a glide path that allows the
+                    aircraft to maintain altitude as much as possible and reach the nearest suitable
+                    landing site. The pilot will adjust the aircraft's speed, angle, and
+                    configuration to optimize the glide distance and reach a safe landing spot.</li>
+                <li>Engine failure checklist: The pilot will follow the engine failure checklist,
+                    which includes items such as reducing the thrust on the operating engine,
+                    extending the landing gear, and configuring the flaps for landing.</li>
+                <li>Landing gear: The pilot will lower the landing gear to provide a stable platform
+                    for landing.</li>
+                <li>Flaps: The pilot will extend the flaps to provide additional lift and to slow
+                    the aircraft down for landing.</li>
+                <li>Final approach: The pilot will maneuver the aircraft into a stable approach for
+                    landing, aiming for the centerline of the runway.</li>
+                <li>Touchdown: The pilot will aim for a smooth touchdown on the runway, using the
+                    nosewheel first to absorb the initial impact.</li>
+                <li>Evacuation: If necessary, the pilot will initiate an emergency evacuation of the
+                    aircraft following a safe landing.</li>
+            </ol>
+        </section>
+        <section id="section_lxn_1bt_lwb">
+            <title>Landing on Water</title>
+            <p>Landing on water refers to the process of bringing an aircraft down to the surface of
+                a body of water, either intentionally in the case of a water landing or ditching, or
+                unintentionally in the case of a crash.</p>
+            <p>A water landing or ditching is a controlled descent onto the surface of water,
+                usually carried out in emergency situations when the pilot is unable to reach a
+                suitable landing runway. In these cases, the pilot will aim to land the aircraft as
+                smoothly as possible to minimize the risk of damage or injury to the aircraft and
+                its occupants.</p>
+            <p>On the other hand, a crash into water is an uncontrolled descent into the water and
+                usually results in significant damage to the aircraft and potentially serious injury
+                or death to the occupants.</p>
+            <p>Regardless of the reason, landing on water is considered to be a high-risk situation,
+                and all aircraft are designed with specific safety features to help minimize the
+                risk to the occupants in the event of a water landing or ditching. These may include
+                flotation devices, life rafts, and emergency exits designed to allow occupants to
+                quickly evacuate the aircraft after it comes to a stop on the water.</p>
+            <p/>
+        </section>
+    </body>
+</topic>
